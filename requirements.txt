@@ -1,5 +1,0 @@
-flagsmith
-beautifulsoup4
-css 3.0
-BootStrap v5.0
-vanilla javascript
